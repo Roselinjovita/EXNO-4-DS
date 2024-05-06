@@ -1,9 +1,10 @@
-# EXNO:4-DS
+# EXNO:4-DS : FEATURE SCALING AND SELECTION
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
 
 # ALGORITHM:
+
 STEP 1:Read the given Data.
 
 STEP 2:Clean the Data Set using Data Cleaning Process.
@@ -23,70 +24,48 @@ STEP 5:Save the data to the file.
 # FEATURE SELECTION:
 Feature selection is to find the best set of features that allows one to build useful models. Selecting the best features helps the model to perform well.
 The feature selection techniques used are:
-
 1.Filter Method
-
 2.Wrapper Method
-
 3.Embedded Method
 
 # CODING AND OUTPUT:
-![Screenshot (146)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/59bc1be5-26c0-4481-9505-f2be72b3ad70)
 
+![Screenshot 2024-04-16 214908](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/390fdf7e-148f-466e-a3d4-c70587ed37e6)
 
+![Screenshot 2024-04-16 214931](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/8a39d859-6a31-4129-bd82-38571610572a)
 
+![Screenshot 2024-04-16 214948](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/9804a39f-996c-4e5c-bd26-fd5c99c82fb3)
 
-![Screenshot (147)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/cba6fed6-c3ee-40f8-ba1b-4e2d01310e79)
+![Screenshot 2024-04-16 214959](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/32252a59-3023-48a2-bfbf-06c57994f6c4)
 
+![Screenshot 2024-04-16 215035](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/2bc3afb7-b105-4fd5-9898-78929dc4eef6)
 
+![Screenshot 2024-04-16 215053](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/f25f7bc9-5ef5-4279-ad42-b1a9cfa1b0b5)
 
+![Screenshot 2024-04-16 215116](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/c4b0ef3c-9a23-40c4-88c4-f03509f76f4d)
 
-![Screenshot (148)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/8bad507d-81d0-4763-9b98-1d88b76d7d79)
+![Screenshot 2024-04-16 215127](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/90ed8a5d-5406-47fa-97c0-0edc664ec9b0)
 
+![Screenshot 2024-04-16 215150](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/4fed269a-e655-47e8-8b92-f1f8155ebbb9)
 
+![Screenshot 2024-04-16 215208](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/00008b66-ae7a-4e45-a229-09f2a0f00914)
 
+![Screenshot 2024-04-16 215231](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/11fe9bbe-0ede-4258-9967-d6c27b2f1d2a)
 
-![Screenshot (149)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/031a1d2a-f582-4ebe-afc4-15e02df17e5e)
+![Screenshot 2024-04-16 215301](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/ab017c93-eb6f-404b-816d-18b26f5c3d18)
 
+![Screenshot 2024-04-16 215346](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/efb07dca-a337-4920-beaf-aada9244f0bd)
 
-![Screenshot (150)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/717d478a-38ac-482e-97b1-e21db45c5a7b)
+![Screenshot 2024-04-16 215417](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/3c6a2cc4-43f8-40f6-9460-faad686c5b63)
 
+![Screenshot 2024-04-16 215431](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/8ddf15f8-738b-41e9-afc5-dffb712a3f88)
 
+![Screenshot 2024-04-16 215446](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/cc7fdb7e-fc7c-4f86-8ca3-4b7d24a7bfd5)
 
-![Screenshot (151)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/906b45e3-38c4-49f7-849e-fecd5a7d97eb)
+![Screenshot 2024-04-16 215524](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/c85060b0-840c-4a33-986b-b3236a80fcba)
 
+![Screenshot 2024-04-16 215535](https://github.com/RENUGASARAVANAN/EXNO-4-DS/assets/119292258/0f6cd7c9-19ad-4eda-8b62-f030f00f3904)
 
-
-
-![Screenshot (152)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/009281d3-0a9f-40a0-9bef-2ddefcccb832)
-
-
-
-![Screenshot (153)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/65ace568-6a6d-4d36-87c3-399eb3080ad8)
-
-
-
-![Screenshot (154)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/9c0b946e-0bd2-4c72-8085-de8f28e29c04)
-
-
-![Screenshot (155)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/a1e648f1-7893-420e-8832-ba01e2ccd2f2)
-
-![Screenshot (156)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/a51d57d8-693f-4e77-88c2-f2010670bfd9)
-
-
-![Screenshot (157)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/445aa509-7f4a-4fbb-952e-ff911ad220b5)
-
-![Screenshot (158)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/0ae3c3c0-d08e-45fc-80d5-6709bfa66cb6)
-
-
-
-![Screenshot (159)](https://github.com/Roselinjovita/EXNO-4-DS/assets/119104296/51c31347-edd0-40a7-8939-7d7923656282)
-
-
-
-
-
-      
 
 # RESULT:
-     Thus feature scaling and feature selection has been executed succesfully.
+        Thus feature scaling and feature selection has been executed succesfully.
